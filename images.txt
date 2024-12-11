@@ -2,7 +2,6 @@ influxdb:2.7.11
 mysql:8.4.3
 openjdk:17
 openjdk:8
-python:3.11
 nginx/nginx-ingress:3.3.2
 apache/apisix
 giantswarm/ingress-nginx-controller:v1.3.1
