@@ -1,6 +1,6 @@
 influxdb:2.7.4
 mysql:5.7.24
-openjdk:17
+openjdk:17-jdk-slim
 openjdk:8
 nginx/nginx-ingress:3.3.2
 apache/apisix
