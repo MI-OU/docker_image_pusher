@@ -11,6 +11,8 @@ ubuntu:20.04
 nginx:alpine
 sonatype/nexus3
 kubesphere/ks-console:v3.4.1
+kubesphere/ks-controller-manager:v3.4.1
+kubesphere/ks-apiserver:v3.4.1
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
