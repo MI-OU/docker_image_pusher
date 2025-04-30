@@ -13,7 +13,6 @@ sonatype/nexus3
 kubesphere/ks-console:v3.4.1
 kubesphere/ks-controller-manager:v3.4.1
 kubesphere/ks-apiserver:v3.4.1
-bitnamicharts/harbor:sha256-ec2c80c952bf997e7b7cb360aeb9c8ade96a70d3002c0b97fc60d6c68320eeae
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
