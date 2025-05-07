@@ -1,5 +1,5 @@
 influxdb:2.7.4
-mysql:5.7
+bitnami/mysql:5.7.43
 openjdk:17-jdk-slim
 openjdk:8
 nginx/nginx-ingress:3.3.2
